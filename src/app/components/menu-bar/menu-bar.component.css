@@ -1,0 +1,15 @@
+.menu-bar__list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.menu-bar__list > li {
+
+  display: flex;
+  width: 80px;
+  justify-content: center;
+
+
+
+}
