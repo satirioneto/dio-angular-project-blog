@@ -8,8 +8,6 @@
   align-items: flex-start;
   justify-content: flex-start;
 
-  margin-right: 20px;
-
   text-decoration: none;
 
 }
@@ -32,4 +30,5 @@
 .big-card__description > p {
   margin-top: 10px;
   color: grey;
+  text-align: justify;
 }

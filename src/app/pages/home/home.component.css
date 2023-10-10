@@ -5,13 +5,27 @@ header {
 }
 
 .container__articles {
+
   margin-top: 30px;
   display: flex;
   flex-direction: row;
   justify-content: center;
+  gap: 20px;
+}
+
+.articles__main {
+  /* border: solid 2px white; */
+}
+
+.articles__others {
+  /* border: solid 2px white; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .articles__others > hr {
+
   margin-top: 20px;
   margin-bottom: 20px;
   border-color: gray;
